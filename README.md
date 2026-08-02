@@ -27,7 +27,7 @@ README，来读我~~
 
 * **YunStorage**：[YunStorage - YizeHe](https://yunstorage.com)
 
-* **MSP-Chain**：[GitHub - YizeHe/MSP-project](https://github.com/YizeHe/MSP-project](https://github.com/YizeHe/MSP-project)
+* **MSP-Chain**：[GitHub - YizeHe/MSP-project](https://github.com/YizeHe/MSP-project)
 
 * **TanStudio API**：[TanAPI - YizeHe](https://api.tanstudio.me)
 
